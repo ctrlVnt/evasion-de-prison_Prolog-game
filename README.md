@@ -3,10 +3,10 @@
 ## But du jeu
 Sortir d'une prison.
 
-##Comment ça marche
+## Comment ça marche
 avec le commande instructions/0 vous pouvez connaître les commandes disponibles.
 
-##Personnages
+## Personnages
 - john: c'est votre voisin de cellule que vous ne connaissez pas très bien mais qui peut vous aider dans votre mission
 - docteur: le médecin de la prison, ça peut être très utile de lui parler
 - gardien: ce sont les gardes qui sont dans certaines pièces, si vous ne voulez pas être capturé il vous faudra une arme ou un compagnon.

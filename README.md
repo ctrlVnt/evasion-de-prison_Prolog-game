@@ -6,6 +6,9 @@ Sortir d'une prison.
 ## Comment ça marche
 avec le commande instructions/0 vous pouvez connaître les commandes disponibles.
 
+## Condition préalables
+Pour exécuter les fichiers .pl (prolog), consultez la documentation sur la page suivante : https://www.swi-prolog.org/download/stable
+
 ## Personnages
 - john: c'est votre voisin de cellule que vous ne connaissez pas très bien mais qui peut vous aider dans votre mission
 - docteur: le médecin de la prison, ça peut être très utile de lui parler
